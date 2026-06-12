@@ -1,0 +1,58 @@
+---
+layout: default
+title: Annexes - PFE Système IoT 
+---
+
+# Annexes - PFE Système IoT 
+
+## 📋 Informations du projet
+
+| Élément | Détail |
+|---------|--------|
+| **Titre** | Conception et réalisation d'un système IoT intelligent de surveillance et de prévention des incendies et des gaz dangereux basé sur Raspberry Pi |
+| **Date** | Juin 2025 |
+
+---
+
+## 💻 Code source
+
+### Scripts Python des capteurs
+
+| Fichier | Description | Lien |
+|---------|-------------|------|
+| `code-python-gaz.py` | Lecture du capteur MQ-135 | [Voir le code](https://github.com/amine-tech-sudo/PFE-Annexes/blob/main/code-python-gaz.py) |
+| `code-python-flamme.py` | Lecture du capteur KY-026 | [Voir le code](https://github.com/amine-tech-sudo/PFE-Annexes/blob/main/code-python-flamme.py) |
+| `code-python-temperature.py` | Lecture du capteur DHT22 | [Voir le code](https://github.com/amine-tech-sudo/PFE-Annexes/blob/main/code-python-temperature.py) |
+| `code-python-actionneurs.py` | Commande des actionneurs via GPIO | [Voir le code](https://github.com/amine-tech-sudo/PFE-Annexes/blob/main/code-python-actionneurs.py) |
+
+---
+
+## 📚 Datasheets techniques
+
+| Composant | Fichier | Source | Lien |
+|-----------|---------|--------|------|
+| Capteur DHT22 | `DHT22 datasheet.pdf` | Adafruit Industries | [📥 Télécharger](https://github.com/amine-tech-sudo/PFE-Annexes/raw/main/DHT22%20datasheet.pdf) |
+| Capteur MQ-135 | `MQ135 datasheet.PDF` | Hanwei Electronics | [📥 Télécharger](https://github.com/amine-tech-sudo/PFE-Annexes/raw/main/MQ135%20datasheet.PDF) |
+| Capteur KY-026 | `KY-026 datasheet.PDF` | Keyes Studio | [📥 Télécharger](https://github.com/amine-tech-sudo/PFE-Annexes/raw/main/KY-026%20datasheet.PDF) |
+
+---
+
+## 🎥 Vidéo de démonstration
+
+| Fichier | Description | Durée | Lien |
+|---------|-------------|-------|------|
+| `0612.mp4` | Démonstration des flux Node-RED en fonctionnement | ~2 min | [▶️ Voir la vidéo](https://github.com/amine-tech-sudo/PFE-Annexes/blob/main/0612.mp4) |
+
+&gt; 📝 **Contenu de la vidéo** :
+&gt; - Visualisation des flux de traitement des données
+&gt; - Réception des messages MQTT des capteurs
+&gt; - Déclenchement automatique des alertes
+&gt; - Commande manuelle des actionneurs via Dashboard
+&gt; - Historisation des données dans SQLite
+
+---
+
+## 📧 Contact
+
+Pour toute question concernant ce projet :  
+**Email** : aminelh2006@gmail.com
