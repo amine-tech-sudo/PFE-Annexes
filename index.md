@@ -41,7 +41,7 @@ title: Annexes - PFE Système IoT
 
 | Fichier | Description | Durée | Lien |
 |---------|-------------|-------|------|
-| `0612.mp4` | Flux Node-RED | ~22 Sec | [▶️ Voir la vidéo](https://github.com/amine-tech-sudo/PFE-Annexes/blob/main/0612.mp4) |
+| `0612.mp4` | Flux Node-RED | ~22 sec | [▶️ Voir la vidéo](https://drive.google.com/file/d/1iOoWqGR3OIMTnT0aZWy4cSKCs0Lg0rPk/preview) |
 
 
 ---
