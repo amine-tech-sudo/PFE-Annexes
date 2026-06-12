@@ -31,24 +31,19 @@ title: Annexes - PFE Système IoT
 
 | Composant | Fichier | Source | Lien |
 |-----------|---------|--------|------|
-| Capteur DHT22 | `DHT22 datasheet.pdf` | Adafruit Industries | [📥 Télécharger](https://github.com/amine-tech-sudo/PFE-Annexes/raw/main/DHT22%20datasheet.pdf) |
-| Capteur MQ-135 | `MQ135 datasheet.PDF` | Hanwei Electronics | [📥 Télécharger](https://github.com/amine-tech-sudo/PFE-Annexes/raw/main/MQ135%20datasheet.PDF) |
-| Capteur KY-026 | `KY-026 datasheet.PDF` | Keyes Studio | [📥 Télécharger](https://github.com/amine-tech-sudo/PFE-Annexes/raw/main/KY-026%20datasheet.PDF) |
+| Capteur DHT22 | `DHT22_datasheet.pdf` | Adafruit Industries | [📥 Télécharger](https://github.com/amine-tech-sudo/PFE-Annexes/raw/main/DHT22_datasheet.pdf) |
+| Capteur MQ-135 | `MQ135_datasheet.PDF` | Hanwei Electronics | [📥 Télécharger](https://github.com/amine-tech-sudo/PFE-Annexes/raw/main/MQ135_datasheet.PDF) |
+| Capteur KY-026 | `KY-026_datasheet.PDF` | Keyes Studio | [📥 Télécharger](https://github.com/amine-tech-sudo/PFE-Annexes/raw/main/KY-026_datasheet.PDF) |
 
 ---
 
-## 🎥 Vidéo de démonstration
+## 🎥 Vidéo de Flux Node-RED
 
 | Fichier | Description | Durée | Lien |
 |---------|-------------|-------|------|
-| `0612.mp4` | Démonstration des flux Node-RED en fonctionnement | ~2 min | [▶️ Voir la vidéo](https://github.com/amine-tech-sudo/PFE-Annexes/blob/main/0612.mp4) |
+| `0612.mp4` | flux Node-RED  | [▶️ Voir la vidéo](https://github.com/amine-tech-sudo/PFE-Annexes/blob/main/0612.mp4) |
 
-&gt; 📝 **Contenu de la vidéo** :
-&gt; - Visualisation des flux de traitement des données
-&gt; - Réception des messages MQTT des capteurs
-&gt; - Déclenchement automatique des alertes
-&gt; - Commande manuelle des actionneurs via Dashboard
-&gt; - Historisation des données dans SQLite
+
 
 ---
 
