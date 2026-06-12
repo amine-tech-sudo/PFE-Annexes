@@ -10,7 +10,7 @@ title: Annexes - PFE Système IoT
 | Élément | Détail |
 |---------|--------|
 | **Titre** | Conception et réalisation d'un système IoT intelligent de surveillance et de prévention des incendies et des gaz dangereux basé sur Raspberry Pi |
-| **Date** | Juin 2025 |
+| **Date** | Juin 2026 |
 
 ---
 
@@ -41,8 +41,7 @@ title: Annexes - PFE Système IoT
 
 | Fichier | Description | Durée | Lien |
 |---------|-------------|-------|------|
-| `0612.mp4` | flux Node-RED  | [▶️ Voir la vidéo](https://github.com/amine-tech-sudo/PFE-Annexes/blob/main/0612.mp4) |
-
+| `0612.mp4` | Flux Node-RED | ~22 Sec | [▶️ Voir la vidéo](https://github.com/amine-tech-sudo/PFE-Annexes/blob/main/0612.mp4) |
 
 
 ---
